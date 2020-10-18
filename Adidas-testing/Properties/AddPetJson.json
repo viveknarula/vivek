@@ -1,0 +1,18 @@
+{
+  "id": 1110011166,
+  "category": {
+    "id": 1110011166,
+    "name": "test_doggy"
+  },
+  "name": "test_doggy",
+  "photoUrls": [
+    "VdAk5BikvwpbfgcH"
+  ],
+  "tags": [
+    {
+      "id": 1110011166,
+      "name": "test_doggy"
+    }
+  ],
+  "status": "available"
+}

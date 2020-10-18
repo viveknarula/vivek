@@ -1,0 +1,18 @@
+{
+	"runMode": "desktopLocal",
+	"id": "CH_LARGE",
+	"applicationURL": "https://www.demoblaze.com/index.html",
+	"desktopLocal": {
+		"serverURL": "http://127.0.0.1:4444/wd/hub",
+		"chromeOptions": "--lang=en_EN",
+		"webdriverCap": [
+			{
+	    "id": "CH_LARGE",
+		"viewPort": "LARGE",
+				"browser": "chrome",
+				"width": "1216",
+				"height": "900"
+			}
+			]
+			}
+}
